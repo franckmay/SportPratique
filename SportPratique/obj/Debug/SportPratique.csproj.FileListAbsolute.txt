@@ -1,0 +1,11 @@
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\bin\Debug\SportPratique.exe.config
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\bin\Debug\SportPratique.exe
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\bin\Debug\SportPratique.pdb
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\obj\Debug\SportPratique.csprojResolveAssemblyReference.cache
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\obj\Debug\SportPratique.Form1.resources
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\obj\Debug\SportPratique.Properties.Resources.resources
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\obj\Debug\SportPratique.csproj.GenerateResource.Cache
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\obj\Debug\SportPratique.exe
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\obj\Debug\SportPratique.pdb
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\bin\Debug\MySql.Data.dll
+c:\users\sadjang\documents\visual studio 2015\Projects\SportPratique\SportPratique\obj\Debug\SportPratique.Accueil.resources
